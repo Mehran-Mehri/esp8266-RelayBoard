@@ -1,3 +1,5 @@
+![Page 1](images/1.png)
+![Page 2](images/2.png)
 # ESP8266 4-Channel Relay Board - Example Code
 
 > **Note:** All the code provided in this repository is intended strictly as example code to help you get started with the hardware.
